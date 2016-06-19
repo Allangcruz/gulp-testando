@@ -4,6 +4,9 @@
   "description": "testando o gulp",
   "author": "Allan Gonçalves da Cruz <allangcruz@gmail.com>",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^1.5.3"
   }
 }
